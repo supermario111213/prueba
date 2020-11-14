@@ -1,0 +1,60 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="•----• Futbol •----•" tvg-logo="" group-title="",•----• Futbol •----•
+http://trial.myinstanttv.com:8080/TV-35447375/659537144007/5915
+#EXTINF:-1 tvg-ID="es.LaLigaTVBAR" tvg-name="|ES| LALIGATV BAR FHD" tvg-logo="http://watchtv.one:8080/logos/laligatv.light.svg" group-title="ESPANA -  FUTBOL",|ES| LALIGATV BAR FHD
+http://trial.myinstanttv.com:8080/TV-35447375/659537144007/48396
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| LIGA TV BAR 1" tvg-logo="" group-title="ESPANA -  FUTBOL",|ES| LIGA TV BAR 1
+http://trial.myinstanttv.com:8080/TV-35447375/659537144007/48497
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| LIGA TV BAR 2" tvg-logo="" group-title="ESPANA -  FUTBOL",|ES| LIGA TV BAR 2
+http://trial.myinstanttv.com:8080/TV-35447375/659537144007/48561
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| LIGA TV BAR 3" tvg-logo="" group-title="ESPANA -  FUTBOL",|ES| LIGA TV BAR 3
+http://trial.myinstanttv.com:8080/TV-35447375/659537144007/48500
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| LIGA TV BAR 4" tvg-logo="" group-title="ESPANA -  FUTBOL",|ES| LIGA TV BAR 4
+http://trial.myinstanttv.com:8080/TV-35447375/659537144007/48562
+#EXTINF:-1 tvg-ID="M.LaLiga.es" tvg-name="|ES| MOVISTAR LA LIGA FHD" tvg-logo="" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LA LIGA FHD
+http://trial.myinstanttv.com:8080/TV-35447375/659537144007/56222
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| MOVISTAR LA LIGA 1 FHD" tvg-logo="http://watchtv.one:8080/logos/movistarlaliga1.light.svg" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LA LIGA 1 FHD
+http://trial.myinstanttv.com:8080/TV-35447375/659537144007/48503
+#EXTINF:-1 tvg-ID="M.LaLiga2.es" tvg-name="|ES| MOVISTAR LA LIGA 2 FHD" tvg-logo="http://watchtv.one:8080/logos/movistarlaliga2.light.svg" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LA LIGA 2 FHD
+http://trial.myinstanttv.com:8080/TV-35447375/659537144007/48505
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| MOVISTAR LA LIGA 3 FHD" tvg-logo="http://watchtv.one:8080/logos/movistarlaliga3.light.svg" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LA LIGA 3 FHD
+http://trial.myinstanttv.com:8080/TV-35447375/659537144007/48565
+#EXTINF:-1 tvg-ID="M.LaLiga.es" tvg-name="|ES| MOVISTAR LA LIGA" tvg-logo="" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LA LIGA
+http://trial.myinstanttv.com:8080/TV-35447375/659537144007/48563
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| MOVISTAR LA LIGA 1" tvg-logo="http://watchtv.one:8080/logos/movistarlaliga1.light.svg" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LA LIGA 1
+http://trial.myinstanttv.com:8080/TV-35447375/659537144007/48502
+#EXTINF:-1 tvg-ID="M.LaLiga2.es" tvg-name="|ES| MOVISTAR LA LIGA 2" tvg-logo="http://watchtv.one:8080/logos/movistarlaliga2.light.svg" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LA LIGA 2
+http://trial.myinstanttv.com:8080/TV-35447375/659537144007/48504
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| MOVISTAR LA LIGA 3" tvg-logo="http://watchtv.one:8080/logos/movistarlaliga3.light.svg" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LA LIGA 3
+http://trial.myinstanttv.com:8080/TV-35447375/659537144007/48506
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| MOVISTAR LA LIGA 4" tvg-logo="http://watchtv.one:8080/logos/movistarlaliga4.light.svg" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LA LIGA 4
+http://trial.myinstanttv.com:8080/TV-35447375/659537144007/48507
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| MOVISTAR LA LIGA 5" tvg-logo="http://watchtv.one:8080/logos/movistarlaliga5.light.svg" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LA LIGA 5
+http://trial.myinstanttv.com:8080/TV-35447375/659537144007/48508
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| MOVISTAR LA LIGA 6" tvg-logo="http://watchtv.one:8080/logos/movistarlaliga6.light.svg" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LA LIGA 6
+http://trial.myinstanttv.com:8080/TV-35447375/659537144007/48509
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| MOVISTAR LA LIGA 7" tvg-logo="http://watchtv.one:8080/logos/movistarlaliga7.light.svg" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LA LIGA 7
+http://trial.myinstanttv.com:8080/TV-35447375/659537144007/48510
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| MOVISTAR LA LIGA 8" tvg-logo="http://watchtv.one:8080/logos/movistarlaliga8.light.svg" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LA LIGA 8
+http://trial.myinstanttv.com:8080/TV-35447375/659537144007/48511
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| MOVISTAR LA LIGA 9" tvg-logo="http://watchtv.one:8080/logos/movistarlaliga9.light.svg" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LA LIGA 9
+http://trial.myinstanttv.com:8080/TV-35447375/659537144007/48566
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| MOVISTAR LA LIGA 10" tvg-logo="http://watchtv.one:8080/logos/movistarlaliga10.light.svg" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LA LIGA 10
+http://trial.myinstanttv.com:8080/TV-35447375/659537144007/48564
+#EXTINF:-1 tvg-ID="mligadecampeones.es" tvg-name="|ES| MOVISTAR LIGA CAMPEONES FHD" tvg-logo="" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LIGA CAMPEONES FHD
+http://trial.myinstanttv.com:8080/TV-35447375/659537144007/48514
+#EXTINF:-1 tvg-ID="mligadecampeones1.es" tvg-name="|ES| MOVISTAR LIGA CAMPEONES 1 FHD" tvg-logo="" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LIGA CAMPEONES 1 FHD
+http://trial.myinstanttv.com:8080/TV-35447375/659537144007/48516
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| MOVISTAR LIGA CAMPEONES 2 FHD" tvg-logo="" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LIGA CAMPEONES 2 FHD
+http://trial.myinstanttv.com:8080/TV-35447375/659537144007/48518
+#EXTINF:-1 tvg-ID="mligadecampeones.es" tvg-name="|ES| MOVISTAR LIGA CAMPEONES" tvg-logo="" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LIGA CAMPEONES
+http://trial.myinstanttv.com:8080/TV-35447375/659537144007/48512
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| MOVISTAR LIGA CAMPEONES 1" tvg-logo="" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LIGA CAMPEONES 1
+http://trial.myinstanttv.com:8080/TV-35447375/659537144007/48515
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| MOVISTAR LIGA CAMPEONES 3" tvg-logo="" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LIGA CAMPEONES 3
+http://trial.myinstanttv.com:8080/TV-35447375/659537144007/48519
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| MOVISTAR LIGA CAMPEONES 4" tvg-logo="" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LIGA CAMPEONES 4
+http://trial.myinstanttv.com:8080/TV-35447375/659537144007/48520
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| MOVISTAR LIGA CAMPEONES 5" tvg-logo="" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LIGA CAMPEONES 5
+http://trial.myinstanttv.com:8080/TV-35447375/659537144007/48521
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| MOVISTAR LIGA CAMPEONES 6" tvg-logo="" grou
